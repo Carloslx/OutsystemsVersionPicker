@@ -1,0 +1,9 @@
+C:\Users\carlos.fonseca\source\repos\OutSystemsVersionChooser\OutSystemsVersionChooser\bin\Debug\OutSystemsVersionChooser.exe.config
+C:\Users\carlos.fonseca\source\repos\OutSystemsVersionChooser\OutSystemsVersionChooser\bin\Debug\OutSystemsVersionChooser.exe
+C:\Users\carlos.fonseca\source\repos\OutSystemsVersionChooser\OutSystemsVersionChooser\bin\Debug\OutSystemsVersionChooser.pdb
+C:\Users\carlos.fonseca\source\repos\OutSystemsVersionChooser\OutSystemsVersionChooser\obj\Debug\OutSystemsVersionChooser.csprojAssemblyReference.cache
+C:\Users\carlos.fonseca\source\repos\OutSystemsVersionChooser\OutSystemsVersionChooser\obj\Debug\OutSystemsVersionChooser.Form1.resources
+C:\Users\carlos.fonseca\source\repos\OutSystemsVersionChooser\OutSystemsVersionChooser\obj\Debug\OutSystemsVersionChooser.Properties.Resources.resources
+C:\Users\carlos.fonseca\source\repos\OutSystemsVersionChooser\OutSystemsVersionChooser\obj\Debug\OutSystemsVersionChooser.csproj.GenerateResource.cache
+C:\Users\carlos.fonseca\source\repos\OutSystemsVersionChooser\OutSystemsVersionChooser\obj\Debug\OutSystemsVersionChooser.exe
+C:\Users\carlos.fonseca\source\repos\OutSystemsVersionChooser\OutSystemsVersionChooser\obj\Debug\OutSystemsVersionChooser.pdb
